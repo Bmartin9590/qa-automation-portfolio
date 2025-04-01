@@ -1,5 +1,3 @@
-# qa-automation-portfolio
-
 # QA Automation Portfolio
 QA automation projects in Python.
 
